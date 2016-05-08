@@ -1,4 +1,4 @@
 mysql = {'host': 'localhost',
-         'user': 'opsdb_api_user',
-         'passwd': 'event@12345',
-         'db': 'varun'}
+         'user': 'adminWin75n7',
+         'passwd': 'SzqDJssPbfgr',
+         'db': 'mmtpythonapp'}
